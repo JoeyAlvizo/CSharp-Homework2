@@ -1,0 +1,12 @@
+/Users/josephmendoza/Projects/Homework2/Homework2/bin/Debug/Homework2.exe
+/Users/josephmendoza/Projects/Homework2/Homework2/bin/Debug/Homework2.pdb
+/Users/josephmendoza/Projects/Homework2/Homework2/obj/Debug/Homework2.csprojAssemblyReference.cache
+/Users/josephmendoza/Projects/Homework2/Homework2/obj/Debug/Homework2.csproj.CoreCompileInputs.cache
+/Users/josephmendoza/Projects/Homework2/Homework2/obj/Debug/Homework2.exe
+/Users/josephmendoza/Projects/Homework2/Homework2/obj/Debug/Homework2.pdb
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/bin/Debug/Homework2.exe
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/bin/Debug/Homework2.pdb
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/obj/Debug/Homework2.csprojAssemblyReference.cache
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/obj/Debug/Homework2.csproj.CoreCompileInputs.cache
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/obj/Debug/Homework2.exe
+/Users/josephmendoza/Documents/GitHub/CSharp-Homework2/Homework2/obj/Debug/Homework2.pdb
